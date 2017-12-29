@@ -41,5 +41,13 @@
     "file": {
     	"url": "https://landing.hairexpert.com.tr/static/hair-expert-logo.106a3b07.jpg"
     }
+  },
+  {
+    "userId": 1,
+    "id": "img2",
+    "type": "Asset",
+    "file": {
+      "url": "https://landing.hairexpert.com.tr/static/photo-7-545817829f0fc9b389b2404556737f17-6882f.webp"
+    }
   }
 ]
